@@ -1,3 +1,3 @@
 ProductionHomeUrl:http://bit.ly/TagBlog
 LocalHomeUrl:http://localhost:8080/TagBlog
-Env:Production
+Env:Local
